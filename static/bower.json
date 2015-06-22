@@ -1,0 +1,16 @@
+{
+  "name": "pig",
+  "version": "0.0.0",
+  "authors": [
+    "Vahid <Vahid.Fazel-Rezai@nasdaq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.0.4",
+    "paper-button": "PolymerElements/paper-button#^1.0.0"
+  }
+}
